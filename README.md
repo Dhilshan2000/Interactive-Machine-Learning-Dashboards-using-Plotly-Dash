@@ -1,2 +1,1 @@
-# Interactive-Machine-Learning-Dashboards-using-Plotly-Dash
-Interactive Machine Learning Dashboards using Plotly Dash
+I have created an HTML outline of a Plotly Dash dashboard and designed interactive dropdown lists, radio buttons, and most importantly, scatter plots and bar charts that respond to your mouse's hover. I have visualize dimensionality reduction results intuitively and interactively, and see how these models can be used in Customer Segmentation. 
